@@ -8,7 +8,7 @@ permalink: /research/
 
 *Solving for X: evidence for sex-specific autism biomarkers across multiple transcriptomic studies*
 **Samuel C. Lee**, Thomas P. Quinn, Jerry Lai, Sek Won Kong, Irva Hertz-Picciotto, Stephen J. Glatt, Tamsyn M. Crowley, Svetha Venkatesh, Thin Nguyen
-bioRxiv 309518; doi: https://doi.org/10.1101/309518 
+bioRxiv 309518; [doi](https://doi.org/10.1101/309518)
 
 # 2017
 
