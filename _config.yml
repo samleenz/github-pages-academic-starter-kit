@@ -2,7 +2,7 @@
 title: Samuel C. Lee
 email: samleenz {at} me {dot} com
 description: > # this means to ignore newlines until "baseurl:"
-  Amongest other things, I'm a Research Assistant at St Vincent's Institute in Melbourne.
+  Amongst other things, I'm a Research Assistant at St Vincent's Institute in Melbourne.
   I study transcriptomics of complex diseases using standard statistical frameworks and machine learning. 
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://samleenz.github.io/" # the base hostname & protocol for your site
