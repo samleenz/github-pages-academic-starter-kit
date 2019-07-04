@@ -7,7 +7,7 @@ layout: default
 
 ## About
 
-I'm currently a research assistant with Svetha Venkatesh's Centre for Pattern Recognition and Data Analytics at Deakin University, Australia. As part of this larger research group my role is to facilitate the overall research efforts of the Health Group into high-throughput biological data while persuing my own independent research interests.
+I'm currently a research assistant under the mentorship of Louise Puton and Jessica Holien within the Stem Cell Regulation Unit at St Vincent's Institute, Melbourne. Within this group I'm currently contributing to both computational drug-discovery projects for rare cancers and cell culture studies investigating haemopoetic stem cell regulation. 
 
 <!-- As a very early career researcher I'm currently working on improving my independent research skills and finding areas of computational biology that hold interest to me for future research directions.  -->
 
@@ -20,7 +20,7 @@ Current areas of research interest, in no real order, include:
 * High-dimensional data integration
 * Data visualisation
 
-When not focusing on my research I'll be found exploring and climbing in the Grampians / Gariwerd National Park. 
+<!-- When not focusing on my research I'll be found exploring and climbing in the Grampians / Gariwerd National Park. -->
 
 <img src="images/grph.png" alt="hi" class="inline"/>
 
